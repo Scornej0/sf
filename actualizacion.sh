@@ -1,6 +1,7 @@
 #!/bin/bash
 rutaInicial=$(pwd)
 # text=$rutaInicial/parametro.txt
+
 #!/bin/bash
 rutaInicial=$(pwd)
 # text=$rutaInicial/parametro.txt
@@ -41,3 +42,4 @@ done
 echo ***************** FIN de EJECUCION *******************
 
 sleep 2
+
