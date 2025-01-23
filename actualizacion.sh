@@ -1,6 +1,9 @@
 #!/bin/bash
 rutaInicial=$(pwd)
 # text=$rutaInicial/parametro.txt
+#!/bin/bash
+rutaInicial=$(pwd)
+# text=$rutaInicial/parametro.txt
 # el echo test2 es solo para generar espacio
 
 echo $test2
